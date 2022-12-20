@@ -27,7 +27,7 @@ I'm a Junior Java Developer
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### :computer: Professional experience
+### :computer: Professional experience:
 
 - [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
 
@@ -39,4 +39,4 @@ I'm a Junior Java Developer
 ### 💬 How to reach me:
 
 - by mail - timin.1996@list.ru
-- by telegram ![telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
+- by telegram - ![telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
