@@ -30,6 +30,7 @@ I'm a Junior Java Developer
 ### :computer: Professional experience:
 
 - [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
+- [CLone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
 
 ### 🌏 Languages:
 
