@@ -28,7 +28,8 @@ I'm a Junior Java Developer
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### :computer: Professional experience:
-
+      
+- [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
 - [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
 - [CLone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
 
