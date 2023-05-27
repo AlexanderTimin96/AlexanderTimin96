@@ -25,7 +25,17 @@ I'm a Junior Java Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- Basics of Java Core
+- Git - version control system (GitHub, Gitlab)
+- Algorithms and data structures
+- Lambda, Stream API, Serialization
+- Maven and Gradle
+- Working with CSV, XML, JSON files
+- Code Testing and JUnit Tests, Mockito 
+- Networking basics. Model OSI, TCP, UDP HTTP protocol
+- JVM. Organization of memory. Garbage collectors, VisualVM
+- Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID
+- Multi-threaded (concurrent) and functional programming TDD and DDD
 
 ### :computer: Professional experience:
       
