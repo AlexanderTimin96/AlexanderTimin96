@@ -26,7 +26,7 @@ I'm a Junior Java Developer
 ### :hammer_and_wrench: Languages and Tools :
 
 - Basics of Java Core
-- Git - version control system (GitHub, Gitlab)
+- Git - version control system
 - Algorithms and data structures
 - Lambda, Stream API, Serialization
 - Maven and Gradle
