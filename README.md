@@ -36,6 +36,9 @@ I'm a Junior Java Developer
 - JVM. Organization of memory. Garbage collectors, VisualVM
 - Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID
 - Multi-threaded (concurrent) and functional programming TDD and DDD
+- Web, Spring & Spring MVC
+- HTTP, JS, Ajax, REST, JSON, CORS
+- Java EE, Java Servlets, Servlets Containers
 
 ### :computer: Professional experience:
       
