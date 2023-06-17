@@ -27,18 +27,33 @@ I'm a Junior Java Developer
 
 - Basics of Java Core
 - Git - version control system
-- Algorithms and data structures
-- Lambda, Stream API, Serialization
-- Maven and Gradle
-- Working with CSV, XML, JSON files
-- Code Testing and JUnit Tests, Mockito 
-- Networking basics. Model OSI, TCP, UDP HTTP protocol
-- JVM. Organization of memory. Garbage collectors, VisualVM
-- Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID
-- Multi-threaded (concurrent) and functional programming TDD and DDD
+- [Algorithms and data structures](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homeworks)
+- [Java Core](https://github.com/AlexanderTimin96/Java_Core_Homework)
+    - Lambda, Stream API, Serialization
+    - Maven and Gradle
+    - Working with CSV, XML, JSON files
+    - Code Testing and JUnit Tests, Mockito 
+    - Networking basics. Model OSI, TCP, UDP HTTP protocol
+    - JVM. Organization of memory. Garbage collectors, VisualVM
+- [Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID](https://github.com/AlexanderTimin96/Patterns_Homework)
+- [Multi-threaded (concurrent) and functional programming TDD and DDD](https://github.com/AlexanderTimin96/Multithreading_Homework)
 - Web, Spring & Spring MVC
-- HTTP, JS, Ajax, REST, JSON, CORS
-- Java EE, Java Servlets, Servlets Containers
+    - [Web, HTTP](Spring Web MVC)
+    - HTTP, JS, Ajax, REST, JSON, CORS
+    - Java EE, Java Servlets, Servlets Containers
+    - Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
+    - Spring Web MVC
+- Spring Boot, RESTful API
+- Deploy Spring Boot applications (nginx, systemd, firewall, journalctl)
+- Linux, Docker
+- TestContainers, Kubernetes, clouds
+- Database:  
+- SQL ( DDL, DML) – PostgreSQL, MySql, Oracle
+- noSQL (MongoDB, Elasticsearch)
+- JDBC API, JdbcTemplate, NamedParametersJdbcTemplate.
+- JPA, ORM, Hibernate
+- Spring Security (Authentication and authorization)
+- Spring WebFlux Reactive, Spring Data R2DBC
 
 ### :computer: Professional experience:
       
