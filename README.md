@@ -54,4 +54,4 @@ I'm a Junior Java Developer
 ### 💬 How to reach me:
 
 - by mail - timin.1996@list.ru
-- by telegram - ![t.me/Rubiks_cube666](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
+- by telegram - [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Rubiks_cube666)
