@@ -38,7 +38,7 @@ I'm a Junior Java Developer
 - [Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID](https://github.com/AlexanderTimin96/Patterns_Homework)
 - [Multi-threaded (concurrent) and functional programming TDD and DDD](https://github.com/AlexanderTimin96/Multithreading_Homework)
 - Web, Spring & Spring MVC
-    - [Web, HTTP](Spring Web MVC)
+    - [Web, HTTP](https://github.com/AlexanderTimin96/http-server/commits/main)
     - HTTP, JS, Ajax, REST, JSON, CORS
     - Java EE, Java Servlets, Servlets Containers
     - Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
