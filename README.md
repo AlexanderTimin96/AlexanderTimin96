@@ -23,6 +23,14 @@ I'm a Junior Java Developer
 * Training courses [Java-разработчик с нуля](https://netology.ru/programs/java-developer) (I'm studying now. Finish in
    2023)
 
+### :computer: Professional experience:
+- [Telegrambot for ski resort](https://github.com/AlexanderTimin96/SkiPass_telegramBot)
+- [Transfer money service](https://github.com/AlexanderTimin96/MoneyTransferService)
+- [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
+- [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
+- [CLone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 - Basics of Java Core
@@ -54,12 +62,6 @@ I'm a Junior Java Developer
 - JPA, ORM, Hibernate
 - Spring Security (Authentication and authorization)
 - Spring WebFlux Reactive, Spring Data R2DBC
-
-### :computer: Professional experience:
-      
-- [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
-- [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
-- [CLone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
 
 ### 🌏 Languages:
 
