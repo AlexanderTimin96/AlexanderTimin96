@@ -28,7 +28,7 @@ I'm a Junior Java Developer
 - [Transfer money service](https://github.com/AlexanderTimin96/MoneyTransferService)
 - [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
 - [Converter to Text graphics](https://github.com/AlexanderTimin96/ConverterToTextGrafics)
-- [CLone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
+- [Clone of the game Flappy Bird ](https://github.com/AlexanderTimin96/cloneOfTheGameFlappyBird/tree/main)
 
 
 ### :hammer_and_wrench: Languages and Tools :
