@@ -24,6 +24,7 @@ I'm a Junior Java Developer
    2023)
 
 ### :computer: Professional experience:
+- [Cloud storage(in progress)](https://github.com/AlexanderTimin96/Cloud_Storage)
 - [Telegrambot for ski resort](https://github.com/AlexanderTimin96/SkiPass_telegramBot)
 - [Transfer money service](https://github.com/AlexanderTimin96/MoneyTransferService)
 - [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
@@ -32,36 +33,22 @@ I'm a Junior Java Developer
 
 
 ### :hammer_and_wrench: Languages and Tools :
-
-- Basics of Java Core
-- Git - version control system
-- [Algorithms and data structures](https://github.com/AlexanderTimin96/Algorithms_and_data_structures_homeworks)
-- [Java Core](https://github.com/AlexanderTimin96/Java_Core_Homework)
-    - Lambda, Stream API, Serialization
-    - Maven and Gradle
-    - Working with CSV, XML, JSON files
-    - Code Testing and JUnit Tests, Mockito 
-    - Networking basics. Model OSI, TCP, UDP HTTP protocol
-    - JVM. Organization of memory. Garbage collectors, VisualVM
-- [Design patterns: Builder, Singleton, Factory, Adapter, Proxy, Decorator, Facade, Iterator, DRY, SOLID](https://github.com/AlexanderTimin96/Patterns_Homework)
-- [Multi-threaded (concurrent) and functional programming TDD and DDD](https://github.com/AlexanderTimin96/Multithreading_Homework)
-- Web, Spring & Spring MVC
-    - [Web, HTTP](https://github.com/AlexanderTimin96/http-server/commits/main)
-    - HTTP, JS, Ajax, REST, JSON, CORS
-    - Java EE, Java Servlets, Servlets Containers
-    - Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
-    - Spring Web MVC
-- Spring Boot, RESTful API
-- Deploy Spring Boot applications (nginx, systemd, firewall, journalctl)
-- Linux, Docker
-- TestContainers, Kubernetes, clouds
-- Database:  
-- SQL ( DDL, DML) – PostgreSQL, MySql, Oracle
-- noSQL (MongoDB, Elasticsearch)
-- JDBC API, JdbcTemplate, NamedParametersJdbcTemplate.
-- JPA, ORM, Hibernate
-- Spring Security (Authentication and authorization)
-- Spring WebFlux Reactive, Spring Data R2DBC
+- Java CORE
+- Java EE
+- JUnit, Mockito
+- Design patterns
+- Multithreaded programming
+- Spring Framework:
+  - Spring Boot
+  - Spring Web
+  - Spring Security
+  - Spring Data
+  - Spring MVC
+- Docker
+- Hibernate ORM, JDBC
+- SQL: MySQL, PostgreSQL
+- Git
+- SOLID, DRY
 
 ### 🌏 Languages:
 
