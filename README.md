@@ -24,7 +24,7 @@ I'm a Junior Java Developer
    2023)
 
 ### :computer: Professional experience:
-- [Cloud storage(in progress)](https://github.com/AlexanderTimin96/Cloud_Storage)
+- [Cloud storage](https://github.com/AlexanderTimin96/Cloud_Storage)
 - [Telegrambot for ski resort](https://github.com/AlexanderTimin96/SkiPass_telegramBot)
 - [Transfer money service](https://github.com/AlexanderTimin96/MoneyTransferService)
 - [Multithreaded network Chat](https://github.com/AlexanderTimin96/NetworkChat)
